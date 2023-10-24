@@ -6,5 +6,5 @@ This repository showcases a collaborative effort by a team of four financial ana
 ## Key Highlights
 
 - **Excel Proficiency:** We demonstrated our strong command of Excel by efficiently cleaning, manipulating, and summarizing complex financial data.
-- **Collaborative Teamwork:** This project underscores our ability to work seamlessly as a team to analyze intricate financial models, combining our skills and knowledge effectively.
+- **Collaborative Teamwork:** This project underscores my ability to work seamlessly in a team to analyze intricate financial models, effectively combining our skills and knowledge.
 - **Interactive Dashboard:** I took the initiative to create an interactive dashboard and executive summary, providing an intuitive visualization of the data, allowing for easy comparison and analysis.
